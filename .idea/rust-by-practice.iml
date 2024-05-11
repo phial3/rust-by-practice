@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="EMPTY_MODULE" version="4">
   <component name="NewModuleRootManager">
-    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/practices/doc-comments/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/practices/hello-package/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/practices/doc-comments/target" />
+      <excludeFolder url="file://$MODULE_DIR$/practices/hello-package/target" />
+    </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
