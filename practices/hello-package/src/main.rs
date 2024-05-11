@@ -68,7 +68,7 @@ fn match_coordinates(coordinates: Coordinates) {
 ///
 fn structure() {
     let eduardo = Person {
-        name: "Eduardo".to_string(),
+        name: "Edduardo".to_string(),
         age: 25,
         height: 1.7,
     };
